@@ -1,4 +1,4 @@
-**Authors:** Darja Jepifanova([@ydarja](https://github.com/ydarja)), Daniel Stuhlinger ([@danielstuhlinger](https://github.com/danielstuhlinger))
+**Authors:** Darja Jepifanova([@ydarja](https://github.com/ydarja)), Daniel Stuhlinger ([@danielstuhlinger](https://github.com/danielstuhlinger))  
 You can read a short ACL paper for this porject [here](Testing-AMR-Universality-Stuhlinger-Jepifanova.pdf)
 
 # Overview
