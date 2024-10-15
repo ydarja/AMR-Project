@@ -1,3 +1,5 @@
+**Authors:** Darja Jepifanova([@ydarja](https://github.com/ydarja)), Daniel Stuhlinger ([@danielstuhlinger](https://github.com/danielstuhlinger))
+
 # Overview
 This project investigates the universality of Abstract Meaning Representation (AMR) by translating reduced AMR structures of "The Little Prince" across English, Chinese, and Persian.
 The aim is to evaluate how AMR captures cross-linguistic semantics and to analyze the impact of structural divergences on translation accuracy.
