@@ -1,5 +1,5 @@
 **Authors:** Darja Jepifanova([@ydarja](https://github.com/ydarja)), Daniel Stuhlinger ([@danielstuhlinger](https://github.com/danielstuhlinger))  
-You can read a short ACL paper for this porject [here](Testing-AMR-Universality-Stuhlinger-Jepifanova.pdf)
+*You can find a short ACL paper of the project [here](Testing-AMR-Universality-Stuhlinger-Jepifanova.pdf)*
 
 # Overview
 This project investigates the universality of Abstract Meaning Representation (AMR) by translating reduced AMR structures of "The Little Prince" across English, Chinese, and Persian.
